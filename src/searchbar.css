@@ -1,0 +1,21 @@
+.searchDiv {
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+.searchDiv form {
+  display: flex;
+  flex-direction: column;
+}
+.searchDiv label {
+  font-size: 1.5rem;
+}
+#searchBar {
+  padding: 5px;
+  margin: 5px 0;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid lightgray;
+  font-size: 1.3rem;
+}
